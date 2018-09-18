@@ -1,2 +1,2 @@
 # hello-world
-let's do it wuiiick
+let's do it quiiick
